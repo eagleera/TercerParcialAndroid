@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147782186148",
+    "firebase_url": "https://examentercerparcial-bd757.firebaseio.com",
+    "project_id": "examentercerparcial-bd757",
+    "storage_bucket": "examentercerparcial-bd757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147782186148:android:2b2435517f0c63300ae231",
+        "android_client_info": {
+          "package_name": "com.example.examentercerparcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147782186148-uj1q1lsna7luakumu1vv672hmtjtmvm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.examentercerparcial",
+            "certificate_hash": "576f98b358d6826d1a94db15b51a0fa1562878f0"
+          }
+        },
+        {
+          "client_id": "147782186148-ctgpdf2mnm469sqo8lfo7sm2dtbauvp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKP6qvE9dGxnwkGfGs3dCcmyuNiX_G53w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147782186148-ctgpdf2mnm469sqo8lfo7sm2dtbauvp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
